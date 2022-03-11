@@ -2,4 +2,8 @@
 title: "Welcome to my blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+# This is the Cr7 Blog
+
+_Cristiano Ronaldo is the greatest footballer who ever lived._
+
+...
